@@ -61,7 +61,12 @@ Through the analysis, several key findings emerged:
 
 Things I would do differently:
 
-1. Incorporating additional variables: 
+1. Incorporating additional variables:
+     - To create a more comprehensive analysis, I would incorporate additional variables such as geographic region, total sales, etc... to offer deeper context and see bigger trends and patters within the data.
+2. Interactive Visualizations:
+     - Improve tableau skills and provide users with a deeper exploration of data
+3. Experiment with machine learning:
+   - Create a predictive analysis for future trends in the market
 
 Overall, this project provided valuable insights into various facets of the video game industry, shedding light on genre preferences, user sentiment trends, and the influence of developers on the gaming landscape. The findings offer actionable insights for stakeholders in the gaming industry, including developers, publishers, and marketers, to better understand consumer preferences and tailor their strategies accordingly. Moving forward, further analysis could explore additional dimensions of the data, such as regional trends, platform preferences, or the impact of specific game features on user engagement, to deepen our understanding of this dynamic and ever-evolving industry.
 
