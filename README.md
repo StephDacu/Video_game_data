@@ -5,7 +5,7 @@
 Welcome to my first project! Here I'll be using SQL to find interesting information from a [dataset](https://www.kaggle.com/datasets/beridzeg45/video-games) about video games. Using this information I will then create a vizualization using Tableau to present my findings.
 - You can find my Tableau dashboard -> [Here](https://public.tableau.com/app/profile/stephen.dacuyan/viz/VideoGameProject_17091719605200/VideoGames2)
 
-## What I am trying to investigate
+## What I am investigating
 1. **What are the top 5 most popular genres based on user ratings count?**
    - Use SQL to aggregate the user ratings count for each genre.
    - Visualize the top 5 genres with the highest user ratings count.
